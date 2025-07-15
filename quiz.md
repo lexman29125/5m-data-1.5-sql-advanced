@@ -44,8 +44,8 @@
 
 ### Q7: What is a correlated subquery?
 
-- A. A subquery that references a column from the outer query.
-- B. A subquery that references a column from another subquery. (ANS)
+- A. A subquery that references a column from the outer query. (ANS)
+- B. A subquery that references a column from another subquery.
 - C. A subquery that references a column from the same subquery.
 - D. A subquery that references a column from a different table.
 
