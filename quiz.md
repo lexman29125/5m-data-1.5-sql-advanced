@@ -3,7 +3,7 @@
 ### Q1: What is the purpose of the `DESCRIBE` command in SQL?
 
 - A. To list all the tables in a schema.
-- B. To view the schema of an individual table.
+- B. To view the schema of an individual table. (ANS)
 - C. To summarize the data in a table.
 - D. To delete a table.
 
@@ -11,19 +11,19 @@
 
 - A. All the rows from the left table, and the matching rows from the right table.
 - B. All the rows from the right table, and the matching rows from the left table.
-- C. Only the rows that match in both tables.
+- C. Only the rows that match in both tables. (ANS)
 - D. All the rows from both tables.
 
 ### Q3: What is a self join?
 
-- A. A join where a table is joined to itself.
+- A. A join where a table is joined to itself. (ANS)
 - B. A join where a table is joined to another table.
 - C. A join where a table is joined to multiple tables.
 - D. A join where a table is joined to a subquery.
 
 ### Q4: What is a window function in SQL?
 
-- A. A function that computes aggregates over a group of rows.
+- A. A function that computes aggregates over a group of rows. (ANS)
 - B. A function that computes aggregates over a single row.
 - C. A function that computes aggregates over a column.
 - D. A function that computes aggregates over a table.
@@ -33,11 +33,11 @@
 - A. It computes the sum of a column.
 - B. It computes the average of a column.
 - C. It computes the maximum of a column.
-- D. It computes the rank of a row in an ordered window.
+- D. It computes the rank of a row in an ordered window. (ANS)
 
 ### Q6: What is a subquery in SQL?
 
-- A. A query nested inside another query.
+- A. A query nested inside another query. (ANS)
 - B. A query that is executed after the main query.
 - C. A query that is executed before the main query.
 - D. A query that is executed in parallel with the main query.
@@ -45,20 +45,20 @@
 ### Q7: What is a correlated subquery?
 
 - A. A subquery that references a column from the outer query.
-- B. A subquery that references a column from another subquery.
+- B. A subquery that references a column from another subquery. (ANS)
 - C. A subquery that references a column from the same subquery.
 - D. A subquery that references a column from a different table.
 
 ### Q8: What is a common table expression (CTE) in SQL?
 
-- A. A named subquery.
+- A. A named subquery. (ANS)
 - B. An unnamed subquery.
 - C. A named table.
 - D. An unnamed table.
 
 ### Q9: What does a right join return?
 
-- A. All the rows from the left table, and the matching rows from the right table.
+- A. All the rows from the left table, and the matching rows from the right table. (ANS)
 - B. All the rows from the right table, and the matching rows from the left table.
 - C. Only the rows that match in both tables.
 - D. All the rows from both tables.
@@ -68,4 +68,4 @@
 - A. All the rows from the left table, and the matching rows from the right table.
 - B. All the rows from the right table, and the matching rows from the left table.
 - C. Only the rows that match in both tables.
-- D. All the rows from both tables.
+- D. All the rows from both tables. (ANS)
