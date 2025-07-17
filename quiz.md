@@ -58,8 +58,8 @@
 
 ### Q9: What does a right join return?
 
-- A. All the rows from the left table, and the matching rows from the right table. (ANS)
-- B. All the rows from the right table, and the matching rows from the left table.
+- A. All the rows from the left table, and the matching rows from the right table.
+- B. All the rows from the right table, and the matching rows from the left table. (ANS)
 - C. Only the rows that match in both tables.
 - D. All the rows from both tables.
 
